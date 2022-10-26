@@ -1,0 +1,39 @@
+.inner_carousel {
+  background-color: green;
+  width: 100%;
+  height: 300px;
+  text-align: center;
+}
+.inner_carousel1 {
+  background-color: red;
+  width: 100%;
+  height: 300px
+}
+.inner_carousel2 {
+  background-color: blue;
+  width: 100%;
+  height: 300px
+}
+.sub_car {
+  background-color: black;
+  width: 300px;
+  height: 300px
+}
+.sub_car1 {
+  background-color: pink;
+  width: 300px;
+  height: 300px
+}
+#myCarousel1 {
+  width: 310px;
+  display: inline-block;
+}
+.tab-pane1 img {
+  background-color: red;
+}
+.tab-pane2 img {
+  background-color: blue;
+}
+.tab-pane3 img {
+  background-color: black;
+}
